@@ -1,3 +1,4 @@
+Collab link: https://colab.research.google.com/drive/1svazfEQdtZpc112gNrDvZjj17PdvLC8H?usp=sharing#scrollTo=pklSMqmRp1Gh
 **Dynamic Pricing for Urban Parking Lots: **
 
 _**Models Implemented: **_
